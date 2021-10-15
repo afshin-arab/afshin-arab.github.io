@@ -2,7 +2,9 @@
 
 
 
-#Machine Learning Resources:
+
+
+##Machine Learning Resources:
 
 A curated list of awesome machine learning frameworks, libraries and software (by language). 
 

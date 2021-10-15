@@ -1,7 +1,13 @@
+
+
+<!-- MarkdownTOC depth=4 -->
 <div align="center"><img src="header.png"></div>
 
 
-#Machine Learning Resources:
+
+<!-- MarkdownTOC depth=4 -->
+#
+### Machine Learning Resources:
 <!-- MarkdownTOC depth=4 -->
 A curated list of awesome machine learning frameworks, libraries and software (by language). 
 

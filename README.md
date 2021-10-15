@@ -1,7 +1,7 @@
 <div align="center"><img src="images/header.png"></div>
 # Data Science Portfolio
 Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes.
-You can find more information on my website [here.](https://afshin.pro/)
+You can find more information on my website [here](https://afshin.pro/).
 
 
 
@@ -20,7 +20,7 @@ Data Science is one of the hottest topics on the Computer and Internet farmland 
 | [a very short history of #datascience](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/) | _The story of how data scientists became sexy is mostly the story of the coupling of the mature discipline of statistics with a very young one--computer science.  The term “Data Science” has emerged only recently to specifically designate a new profession that is expected to make sense of the vast stores of big data. But making sense of data has a long history and has been discussed by scientists, statisticians, librarians, computer scientists and others for years. The following timeline traces the evolution of the term “Data Science” and its use, attempts to define it, and related terms._ |
 
 ## Algorithms
-[top](#awesome-data-science)
+
 
 These are some Machine Learning and Data Mining algorithms and models help you to understand your data and derive meaning from it.
 
@@ -97,7 +97,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - Self-Organized Maps
 
 ## Toolboxes - Environment
-[top](#awesome-data-science)
+
 
 | Link | Description |
 | --- | --- |

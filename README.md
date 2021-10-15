@@ -1,3 +1,9 @@
+# Data Science Portfolio
+Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes.
+
+
+
+
 ## What is Data Science?
 
 Data Science is one of the hottest topics on the Computer and Internet farmland nowadays. People have gathered data from applications and systems until today and now is the time to analyze them. The next steps are producing suggestions from the data and creating predictions about the future. [Here](https://www.quora.com/Data-Science/What-is-data-science) you can find the biggest question for **Data Science** and hundreds of answers from experts.

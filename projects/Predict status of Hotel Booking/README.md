@@ -14,7 +14,7 @@ A model to predict whether customers cancel their reservations or not?
 
 • How long do people stay at the hotels?
 
-## Data Dictionary:
+## *Data Dictionary:*
 
 hotel Hotel (H1 = Resort Hotel or H2 = City Hotel)
 
@@ -42,7 +42,10 @@ babies=Number of babies
 
 
 meal=Type of meal booked. Categories are presented in standard hospitality meal packages: 
-Undefined/SC – no meal package; BB – Bed & Breakfast; HB – Half board (breakfast and one other meal – usually dinner); FB – Full board (breakfast, lunch and dinner)
+Undefined/SC – no meal package; 
+- BB – Bed & Breakfast; 
+- HB – Half board (breakfast and one other meal – usually dinner); 
+- FB – Full board (breakfast, lunch and dinner)
 
 country=Country of origin. Categories are represented in the ISO 3155–3:2013 format
 
@@ -65,9 +68,9 @@ booking_changes=Number of changes/amendments made to the booking from the moment
 
 deposit_type=Indication on if the customer made a deposit to guarantee the booking. 
 This variable can assume three categories: 
- No Deposit – no deposit was made;
- Non Refund – a deposit was made in the value of the total stay cost; 
- Refundable – a deposit was made with a valueunder the total cost of stay.
+- No Deposit – no deposit was made;
+- Non Refund – a deposit was made in the value of the total stay cost; 
+- Refundable – a deposit was made with a valueunder the total cost of stay.
   
 agent=ID of the travel agency that made the booking
 
@@ -76,9 +79,9 @@ company=ID of the company/entity that made the booking or responsible for paying
 days_in_waiting_list=Number of days the booking was in the waiting list before it was confirmed to the customer customer_type
 
 Type of booking, assuming one of four categories:
- Contract - when the booking has an allotment or other type of contract associated to it; 
- Group – when the booking is associated to a group; Transient – when the booking is not part of a group or contract, and is not associated to other transient booking; 
- Transient-party – when the booking is transient, but is associated to at least other transient booking
+ - Contract - when the booking has an allotment or other type of contract associated to it; 
+ - Group – when the booking is associated to a group; Transient – when the booking is not part of a group or contract, and is not associated to other transient booking; 
+ - Transient-party – when the booking is transient, but is associated to at least other transient booking
 
 
 adr=Average Daily Rate as defined by dividing the sum of all lodging transactions by the total number of staying nights

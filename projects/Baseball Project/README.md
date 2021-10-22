@@ -20,7 +20,24 @@ Baseball is a game of trends. With normal seasons being 162 games, where each te
 - ETL – KNIME / API for Current Year Data
 - MongoDB for Datastore (NoSQL scalable database)
 - Data Visualization – Tableau
-
+---
 ### NOTES: 
 - *For full detailed information about the project use the "Project.pdf" file.*
 - *R codes have not been uploaded due to the loss of data (Sorry for that!); only Python codes are available!*
+---
+### Bibliography:
+- Castrovince, A. (2020). _A Fan&#39;s Guide to Baseball Analytics._ New York, New York: Sports Publishing.
+- ESPN. (2020, October 2). _MLB Cy Young Predictor - 2020_. Retrieved from Major League Baseball: [http://www.espn.com/mlb/features/cyyoung](http://www.espn.com/mlb/features/cyyoung)
+- Friendly, M., Dalzell, C., Murphy, M., Foot, V., &amp; Zaki-Azat, J. (2020, June 9). _Lahman: Sean &#39;Lahman&#39; Baseball Database ._ Retrieved September 2, 2020, from The Comprehensive R Archive Network: [https://cran.r-project.org/web/packages/Lahman/Lahman.pdf](https://cran.r-project.org/web/packages/Lahman/Lahman.pdf)
+- _Game score_. (2020, August 26). Retrieved from Wikipedia: [https://en.wikipedia.org/wiki/Game\_score#Game\_Score\_Version\_2.0](https://en.wikipedia.org/wiki/Game_score#Game_Score_Version_2.0)
+- Harvard University. (2018, October 12). _R regression models workshop notes_. Retrieved from The Institute for Quantitative Social Science: [http://tutorials.iq.harvard.edu/R/Rstatistics/Rstatistics.html](http://tutorials.iq.harvard.edu/R/Rstatistics/Rstatistics.html)
+- Lewis, M. (3003). _Moneyball: The Art of Winning an Unfair Game._ New York, New York, United States: W. W. Norton &amp; Company.
+- Marchi, M., Albert, J., &amp; Baumer, B. S. (2019). _Anayzing Baseball Data with R_ (2 ed.). Boca Raton, FL: Taylor &amp; Francis Group.
+- _Moneyball (film)_. (2020, August 31). Retrieved August 31, 2020, from Wikipedia: [https://en.wikipedia.org/wiki/Moneyball\_(film](https://en.wikipedia.org/wiki/Moneyball_(film))
+- MongoDB. (2020, September 2). _What Is MongoDB_. Retrieved September 20, 2020, from The database for Modern Applications: [https://www.mongodb.com/what-is-mongodb](https://www.mongodb.com/what-is-mongodb)
+- Ooms, J. (2018, August 9). Retrieved from Mongolite User Manual: [https://jeroen.github.io/mongolite/](https://jeroen.github.io/mongolite/)
+- _Sabermetrics_. (2020, August 13). Retrieved September 2, 2020, from Wikipedia: [https://en.wikipedia.org/wiki/Sabermetrics](https://en.wikipedia.org/wiki/Sabermetrics)
+- _Team Standard Pitching_. (2020, October2). Retrieved from Baseball Reference: [https://www.baseball-reference.com/leagues/MLB/2018-standard-pitching.shtml#players\_standard\_pitching::none](https://www.baseball-reference.com/leagues/MLB/2018-standard-pitching.shtml#players_standard_pitching::none)
+- Wassermann, E., Czech, D. R., Wilson, M. J., Joyner, W., &amp; Joyner, A. B. (2005, January 2). _An Examination of the Moneyball Theory: A Baseball Statistical Analysis_. Retrieved August 31, 2020, from The Sports JOurnal: [https://thesportjournal.org/article/an-examination-of-the-moneyball-theory-a-baseball-statistical-analysis/](https://thesportjournal.org/article/an-examination-of-the-moneyball-theory-a-baseball-statistical-analysis/)
+- Wikipedia. (2020, April 1). _Bradley-Terry model_. Retrieved from Wikipedia: [https://en.wikipedia.org/wiki/Bradley%E2%80%93Terry\_model](https://en.wikipedia.org/wiki/Bradley%E2%80%93Terry_model)
+- Mazzanti, S. (2020, March). _Boruta explained exactly how you wished someone explained to you._ Retrieved October 31, 2020 from: https://towardsdatascience.com/boruta-explained-the-way-i-wish-someone-explained-it-to-me-4489d70e154a

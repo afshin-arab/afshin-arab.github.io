@@ -4,7 +4,7 @@
 
 ### Academic Projects 
 
-[Analyzing Baseball Data & Predict the Winners of 2020 Series](https://github.com/afshin-arab/afshin-arab.github.io/blob/f3acc13bef2fe882b78709dd9808035f92740647/projects/Baseball%20Project/APPENDIX%20B%20%E2%80%93%20BASEBALL-REFERENCE.COM%20DATASET.pdf)
+[Analyzing Baseball Data & Predict the Winners of 2020 Series](https://github.com/afshin-arab/afshin-arab.github.io/blob/37218a0646fecf45c130ebc66a8d0389e37690bc/projects/Baseball%20Project/Project.pdf)
 <img src="images/p1.jpg"/>
 
 ---

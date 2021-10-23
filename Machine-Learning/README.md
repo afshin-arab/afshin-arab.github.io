@@ -7,21 +7,11 @@
 
 <!-- MarkdownTOC depth=4 -->
 #
-### Machine Learning Resources:
+### Machine Learning Library:
 <!-- MarkdownTOC depth=4 -->
-A curated list of awesome machine learning frameworks, libraries and software (by language). 
+A curated list of awesome machine learning frameworks, libraries and software (by language). A big thanks to josephmisiti.
 
-Further resources:
 
-* For a list of free machine learning books available for download, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md).
-
-* For a list of professional machine learning events, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/events.md).
-
-* For a list of (mostly) free machine learning courses available online, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/courses.md).
-
-* For a list of blogs and newsletters on data science and machine learning, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/blogs.md).
-
-* For a list of free-to-attend meetups and local events, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/meetups.md).
 
 ## Table of Contents
 

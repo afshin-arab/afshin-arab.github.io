@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Academic Projects 
 
-[Project 1 Title](/sample_page)
+[Analyzing Baseball Data & Predict the Winners of 2020 Series](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

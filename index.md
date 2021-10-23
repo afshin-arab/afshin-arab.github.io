@@ -5,7 +5,7 @@
 ### Academic Projects 
 
 [Analyzing Baseball Data & Predict the Winners of 2020 Series](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/p1.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

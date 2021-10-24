@@ -2,7 +2,7 @@
 
 A very basic project to use linear regression in order to predict the movie box office performance by only using one independent variable, "production budget." The data is obtained from [the-numbers.com](https://www.the-numbers.com/movie/budgets/all/). You can find raw and cleaned data in the project's folder. 
 
-![Movie Revenue vs. Movie Bidget Scatterplot](https://github.com/afshin-arab/afshin-arab.github.io/blob/e56fc2eae489abba696174dd57d4fd1db48a3ce9/projects/Movie%20box%20office%20prediction/plot.png)
+![Movie Revenue vs. Movie Bidget Scatterplot](https://github.com/afshin-arab/afshin-arab.github.io/blob/56538723b3230b7c0c969a4304e90312a905044e/projects/Movie%20box%20office%20prediction/plot.png)
 
 **Result**: as expected we reached a R2 score of 0.55 with defines that 55% of variation in the dependent variable (y) is explainable by our independent variable (X). 
 You can find the project file [here](https://github.com/afshin-arab/afshin-arab.github.io/blob/139776435af97fb960b75eda791b1f8aaeaca900/projects/Movie%20box%20office%20prediction/Project.ipynb)

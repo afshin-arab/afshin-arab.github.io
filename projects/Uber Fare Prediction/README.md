@@ -1,4 +1,4 @@
-# Uber-Fare-Prediction
+# Uber Fare Prediction
 
 The main objective of project is to design an algorithm which will tell the fare to be charged for a passenger. Machine learning algorithms are used to develop a regression model.
 

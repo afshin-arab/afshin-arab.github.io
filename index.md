@@ -8,8 +8,8 @@
 <img src="images/p1.jpg"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Finding Donors for Charity](https://github.com/afshin-arab/afshin-arab.github.io/blob/829c6bee6640fda3f42282762fe710bf1606a2ea/projects/Finding%20Donors%20for%20Charity/Project.ipynb)
+<img src="images/p2.jpg"/>
 
 ---
 [Project 3 Title](http://example.com/)

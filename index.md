@@ -17,13 +17,13 @@
 
 ---
 
-### Category Name 2
+### Other Personal Projects:
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Uber Fare Prediction](projects/Uber Fare Prediction/Project.ipynb)
+- [3-Way Sentiment Analysis for Tweets](projects/Sentiment Analysis for Tweets/Project.ipynb)
+- [Predict the status of Hotel Bookings](projects/Predict status of Hotel Booking/Project.ipynb)
+- [Creating Customer Segments](projects/Customer Segments/Porject.ipynb)
+- [Boston Housing Prices](projects/Boston Housing Prices/Project.ipynb)
 
 ---
 

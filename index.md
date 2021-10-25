@@ -12,8 +12,8 @@
 <img src="images/p2.jpg"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Brain Tumor Detection](https://github.com/afshin-arab/afshin-arab.github.io/blob/6aaf310784f4efa998a57ecf3f0fa29c111f85f1/projects/Brain%20Tumor%20Detection/Project.ipynb)
+<img src="images/p2.jpg"/>
 
 ---
 

@@ -1,4 +1,5 @@
-<div align="center"><img src="https://github.com/afshin-arab/afshin-arab.github.io/blob/52ae1022720560e3c7d5cf5e6138d9eff2205050/projects/Uber%20Fare%20Prediction/Uber-header.png"></div>
+<div align="center"><img src="https://github.com/afshin-arab/afshin-arab.github.io/blob/52ae1022720560e3c7d5cf5e6138d9eff2205050/projects/Uber%20Fare%20Prediction/Uber-header.png" width="1000"></div>
+
 # Uber Fare Prediction
 
 The main objective of project is to design an algorithm which will tell the fare to be charged for a passenger. Machine learning algorithms are used to develop a regression model.

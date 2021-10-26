@@ -19,13 +19,12 @@
 
 ### Other Personal Projects:
 
-- [Uber Fare Prediction](projects/Uber Fare Prediction/Project.ipynb)
-- [3-Way Sentiment Analysis for Tweets](projects/Sentiment Analysis for Tweets/Project.ipynb)
-- [Predict the status of Hotel Bookings](projects/Predict status of Hotel Booking/Project.ipynb)
-- [Creating Customer Segments](projects/Customer Segments/Porject.ipynb)
-- [Boston Housing Prices](projects/Boston Housing Prices/Project.ipynb)
+- [Uber Fare Prediction](https://github.com/afshin-arab/afshin-arab.github.io/blob/353558f7d8db22bab25ffa65e3c8950477b9eec2/projects/Uber%20Fare%20Prediction/Project.ipynb)
+- [3-Way Sentiment Analysis for Tweets](https://github.com/afshin-arab/afshin-arab.github.io/blob/353558f7d8db22bab25ffa65e3c8950477b9eec2/projects/Sentiment%20Analysis%20for%20Tweets/Project.ipynb)
+- [Predict the status of Hotel Bookings](https://github.com/afshin-arab/afshin-arab.github.io/blob/353558f7d8db22bab25ffa65e3c8950477b9eec2/projects/Predict%20status%20of%20Hotel%20Booking/Project.ipynb)
+- [Creating Customer Segments](https://github.com/afshin-arab/afshin-arab.github.io/blob/353558f7d8db22bab25ffa65e3c8950477b9eec2/projects/Customer%20Segments/Porject.ipynb)
+- [Boston Housing Prices](https://github.com/afshin-arab/afshin-arab.github.io/blob/353558f7d8db22bab25ffa65e3c8950477b9eec2/projects/Uber%20Fare%20Prediction/Project.ipynb)
 
----
 
 
 
